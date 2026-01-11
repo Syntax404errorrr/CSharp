@@ -25,9 +25,9 @@ class Program
     {
 
         Student s = new Student();
-        s.Name = "Marco";
-        s.Age = 20;
-        s.Grade = 85.5;
+        s.Name = "Alvin";
+        s.Age = 22;
+        s.Grade = 90;
 
         s.DisplayInfo();
 
